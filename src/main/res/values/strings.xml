@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GOOGLEPAY</string>
+    <string name="_5">5</string>
+    <string name="amount">Amount</string>
+    <string name="note">Note</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="test_upi_payment">Test UPI Payment</string>
+    <string name="kamal_bunkar">kamal bunkar</string>
+    <string name="kamal_bunkar07_okaxis">kamal.bunkar07@okaxis</string>
+    <string name="upi_id">UPI ID</string>
+    <string name="name">Name</string>
+    <string name="kamal_bunkar08_okaxis">kamal_bunkar08_okaxis</string>
+    <string name="nam">name</string>
+
+
+</resources>

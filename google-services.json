@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922298030525",
+    "firebase_url": "https://pay-960b1.firebaseio.com",
+    "project_id": "pay-960b1",
+    "storage_bucket": "pay-960b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922298030525:android:8d86631b48435afe015ad4",
+        "android_client_info": {
+          "package_name": "com.example.googlepay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922298030525-2lek7tph8df1j6e7eh9nfthuqj139gpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAayyIM9bD03GohWXmUiNmkFHj6bP2RZzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922298030525-2lek7tph8df1j6e7eh9nfthuqj139gpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
